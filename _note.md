@@ -51,3 +51,5 @@ https://gandalf.lakera.ai/baseline
 ## 04 criou um agent para buscar o mcp server, 05 Criou um mpc dentro da API
 
 Usou FastApi
+
+## 06 Realizar desafio
