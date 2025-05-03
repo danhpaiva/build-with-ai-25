@@ -1,0 +1,22 @@
+
+Installar Bibliotecas:
+
+pip install -r requirements.txt
+
+Google Ai Studio para pegar API-Key:
+
+https://aistudio.google.com/library
+
+Criar arquivo .env dentro do projeto e 
+colocar duas variaveis:
+
+GOOGLE_GENAI_USE_VERTEXAI=FALSE
+GOOGLE_API_KEY="api_key"
+
+(O agente 01_simples esta dentro do simple_agente)
+
+Abrir terminar e rodar:
+
+adk web
+
+(O agente com 02_tools tem mais contexto...)
